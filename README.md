@@ -1,0 +1,1 @@
+Cette page est un entraînement que j'ai réalisé afin d'approfondir ma maîtrise de la bibliothèque Jquery. Elle affiche un curseur qui nous permet de changer la couleur de fond du site. Celle du texte change également de noir à blanc, en fonction de la sombritude du fond.
